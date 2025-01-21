@@ -2,8 +2,8 @@
 ---
 
 $logo-big: 200px;
-$logo: 80px;
-$big-padding: 80px;
+$logo: 60px;
+$big-padding: 40px;
 $collapse: 900px;
 $sticky: true;
 
@@ -14,8 +14,8 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: var(--shadow);
 
+  
   @if $sticky {
     position: sticky !important;
     top: 0;

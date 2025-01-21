@@ -1,7 +1,5 @@
 - id: doi:10.1111/tpj.16794
-  title: "A chromosome\u2010scale assembly of <i>Brassica carinata</i> (<scp>BBCC</scp>)\
-    \ accession HC20 containing resistance to multiple pathogens and an early generation\
-    \ assessment of introgressions into <i>B.\_juncea</i> (<scp>AABB</scp>)"
+  title: "A chromosome-scale assembly of <i>Brassica carinata</i> (BBCC) accession HC20 containing resistance to multiple pathogens and an early generation assessment of introgressions into <i>B. juncea</i> (AABB)"
   authors:
   - Kumar Paritosh
   - Sivasubramanian Rajarammohan
@@ -21,9 +19,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/spectrum.02939-22
-  title: "Transcriptome Analysis of the Necrotrophic Pathogen\n            <i>Alternaria\
-    \ brassicae</i>\n            Reveals Insights into Its Pathogenesis in\n     \
-    \       <i>Brassica juncea</i>"
+  title: "Transcriptome Analysis of the Necrotrophic Pathogen <i>Alternaria brassicae</i> Reveals Insights into Its Pathogenesis in <i>Brassica juncea</i>"
   authors:
   - Sivasubramanian Rajarammohan
   publisher: Microbiology Spectrum
@@ -33,8 +29,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41597-022-01903-4
-  title: Genome sequencing and assembly of Lathyrus sativus - a nutrient-rich hardy
-    legume crop
+  title: Genome sequencing and assembly of <i>Lathyrus sativus</i> - a nutrient-rich hardy legume crop
   authors:
   - Sivasubramanian Rajarammohan
   - Lovenpreet Kaur

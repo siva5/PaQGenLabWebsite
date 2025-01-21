@@ -5,7 +5,6 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
@@ -27,7 +26,7 @@ header a {
 }
 
 .logo {
-  height: 80px;
+  height: 60px;
 }
 
 .logo > * {
@@ -121,7 +120,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 80px 20px;
+  padding: 40px 20px;
   top: unset;
 }
 header[data-big] .home {

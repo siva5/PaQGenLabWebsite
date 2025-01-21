@@ -17,7 +17,7 @@ We aim to harness the genetic diversity of the Brassica CWRs and underutilized c
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A chromosome-scale assembly of _Brassica carinata_(BBCC) accession HC20 containing resistance to multiple pathogens and an early generation assessment of introgressions into _B. juncea_ (AABB)" style="rich" %}
 
 {% include section.html %}
 

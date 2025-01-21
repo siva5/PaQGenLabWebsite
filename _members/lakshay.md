@@ -1,7 +1,7 @@
 ---
-name: Sarah Johnson
+name: Lakshay Goyal
 image: images/photo.jpg
-description: Lead Programmer
+description: Research Associate I
 role: programmer
 links:
   email: sarah.johnson@gmail.com

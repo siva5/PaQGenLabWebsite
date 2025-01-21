@@ -20,8 +20,8 @@
   date: '2024-05-09'
   link: https://doi.org/g82pfw
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/spectrum.02939-22
   title: "Transcriptome Analysis of the Necrotrophic Pathogen\n            <i>Alternaria\
     \ brassicae</i>\n            Reveals Insights into Its Pathogenesis in\n     \
@@ -32,8 +32,8 @@
   date: '2023-04-13'
   link: https://doi.org/g82pfx
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41597-022-01903-4
   title: Genome sequencing and assembly of Lathyrus sativus - a nutrient-rich hardy
     legume crop
@@ -51,8 +51,8 @@
   date: '2023-01-17'
   link: https://doi.org/gs4nvs
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.10.13.512038
   title: A chromosome-scale assembly of<i>Brassica carinata</i>(BBCC) accession HC20
     containing resistance to multiple pathogens and an early generation assessment
@@ -73,8 +73,8 @@
   date: '2022-10-17'
   link: https://doi.org/gs2cbw
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.09.12.507536
   title: Transcriptome analysis of the necrotrophic pathogen <i>Alternaria brassicae</i>
     reveals a biphasic mode of pathogenesis in <i>Brassica juncea</i>
@@ -84,8 +84,8 @@
   date: '2022-09-13'
   link: https://doi.org/g82pfz
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/ijms23179577
   title: Intrarectal Capsazepine Administration Modulates Colonic Mucosal Health in
     Mice
@@ -104,8 +104,8 @@
   date: '2022-08-24'
   link: https://doi.org/g82pf2
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/agronomy12030627
   title: Antimicrobial Potential of Essential Oils from Aromatic Plant Ocimum sp.;
     A Comparative Biochemical Profiling and In-Silico Analysis
@@ -122,8 +122,8 @@
   date: '2022-03-04'
   link: https://doi.org/g82pf3
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2021.07.04.450447
   title: Functional characterisation of the Nep1-like protein effectors of the necrotrophic
     pathogen - <i>Alternaria brassicae</i>
@@ -138,8 +138,8 @@
   date: '2021-07-05'
   link: https://doi.org/g82pf4
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/19490976.2020.1826761
   title: "Linear and branched <i>\u03B2-</i>Glucans degrading enzymes from versatile\
     \ <i>Bacteroides uniformis</i> JCM 13288<sup>T</sup> and their roles in cooperation\
@@ -153,8 +153,8 @@
   date: '2020-10-10'
   link: https://doi.org/gnpxs3
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-020-75702-5
   title: Anti-inflammatory Bifidobacterium strains prevent dextran sodium sulfate
     induced colitis and associated gut microbial dysbiosis in mice
@@ -173,8 +173,8 @@
   date: '2020-10-29'
   link: https://doi.org/gp658h
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11274-020-02927-x
   title: 'Smut fungi as a stratagem to characterize rust effectors: opportunities
     and challenges'
@@ -187,8 +187,8 @@
   date: '2020-09-14'
   link: https://doi.org/g36hp9
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.micres.2020.126567
   title: 'Effector Biology of Biotrophic Plant Fungal Pathogens: Current Advances
     and Future Prospects'
@@ -207,8 +207,8 @@
   date: '2020-12-01'
   link: https://doi.org/gpf825
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/mra.00561-20
   title: Draft Genome Sequence of Bifidobacterium pseudocatenulatum Bif4, Isolated
     from Healthy Infant Feces
@@ -226,8 +226,8 @@
   date: '2020-06-25'
   link: https://doi.org/g82pf5
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s12864-020-6504-5
   title: "Correction to: Comparative genomics of Alternaria species provides insights\
     \ into the pathogenic lifestyle of Alternaria brassicae \u2013 a pathogen of the\
@@ -241,8 +241,8 @@
   date: '2020-01-28'
   link: https://doi.org/g82pf6
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1094/mpmi-03-19-0084-a
   title: "Near-Complete Genome Assembly of <i>Alternaria brassicae</i>\u2014A Necrotrophic\
     \ Pathogen of <i>Brassica</i> Crops"
@@ -254,8 +254,8 @@
   date: '2019-08-01'
   link: https://doi.org/g82pf7
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.pmpp.2019.06.001
   title: ROS accumulation and associated cell death mediates susceptibility to Alternaria
     brassicae in Arabidopsis accessions
@@ -267,8 +267,8 @@
   date: '2019-08-01'
   link: https://doi.org/g82pf8
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s12864-019-6414-6
   title: "Comparative genomics of Alternaria species provides insights into the pathogenic\
     \ lifestyle of Alternaria brassicae \u2013 a pathogen of the Brassicaceae family"
@@ -281,8 +281,8 @@
   date: '2019-12-01'
   link: https://doi.org/g82pf9
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s12298-017-0486-z
   title: Alternaria brassicae interactions with the model Brassicaceae member Arabidopsis
     thaliana closely resembles those with Mustard (Brassica juncea)
@@ -294,8 +294,8 @@
   date: '2017-11-16'
   link: https://doi.org/gcxnq2
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fpls.2017.00260
   title: 'Genetic Architecture of Resistance to Alternaria brassicae in Arabidopsis
     thaliana: QTL Mapping Reveals Two Major Resistance-Conferring Loci'
@@ -310,8 +310,8 @@
   date: '2017-02-24'
   link: https://doi.org/gsjqrc
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/mpp.12654
   title: "Genome\u2010wide association mapping in <i>Arabidopsis</i> identifies novel\
     \ genes underlying quantitative disease resistance to <i>Alternaria brassicae</i>"
@@ -324,8 +324,8 @@
   date: '2018-02-01'
   link: https://doi.org/gsjqrd
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-81-322-2283-5_1
   title: 'Arabidopsis thaliana: A Model for Plant Research'
   authors:
@@ -336,63 +336,5 @@
   date: '2015-01-01'
   link: https://doi.org/g82pgb
   orcid: 0000-0002-4686-8361
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml

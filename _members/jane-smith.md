@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Sivasubramanian R
+image: images/Photo_RS.jpeg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: National Agri-Food and Biomanufacturing Institute (NABI)
 aliases:
-  - J. Smith
-  - J Smith
+  - R. Sivasubramanian
+  - Sivasubramanian Rajarammohan
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://nabi.res.in/profile/scientists?id=MTkz
+  orcid: 0000-0002-4686-8361
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

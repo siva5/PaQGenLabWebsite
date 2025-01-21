@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Alexander Balamurugan
 image: images/photo.jpg
-role: phd
+role: Project Scientist I
 group: alum
 links:
   github: john-doe

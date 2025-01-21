@@ -11,7 +11,7 @@ Growing global demands for food and forage necessitates crop improvement program
 Oilseeds of the Brassica genus are significant contributors to the total edible oil consumed worldwide, second only to soybean oil. _Brassica juncea_, is an important oilseed crop in Asia, while _Brassica napus_ is mostly grown in Europe and Canada. _B. juncea_ has a narrow genetic base and has limited variability in terms of response to various biotic and abiotic stresses. 
 We aim to harness the genetic diversity of the Brassica CWRs and underutilized crops of the Brassica genus such as _Brassica carinata_ for crop improvement through traditional breeding approaches or cutting-edge genome editing techniques. The Brassica CWRs would be phenotyped for various traits including but not limited to disease resistance, flowering time, and oil quality. Additionally, new genome information would be generated for interesting CWRs to carry out comparative genomics analyses. Subsequently, loci responsible for traits of interest would be mapped and identified. The candidate genes/loci thus identified would be targeted for introgression through wide hybridizations or genome editing approaches. Overall, we aim to accelerate development of improved crop varieties that are highly productive, resilient to environmental challenges, and possess enhanced nutritional value.
 
-{% include figure.html image="images/Overview_NABI.tif" caption="Overview of research on CWRs and underutilized crops" width="100%" %}
+{% include figure.html image="images/Research_overview.jpg" caption="Overview of research on CWRs and underutilized crops" width="100%" %}
 
 {% include section.html %}
 

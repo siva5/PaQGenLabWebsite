@@ -1,9 +1,9 @@
 ---
 ---
 
-# siva5's Website
+# Quantitative Genetics and Genomics for food and nutritional security
 
-An engaging 1-3 sentence description of your lab.
+Our research focuses on utilizing genetic and genomic tools to mainstream underutilized crops and crop wild relatives (CWRs) for food and nutritional security.
 
 {% include section.html %}
 

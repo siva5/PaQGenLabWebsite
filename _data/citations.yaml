@@ -22,6 +22,7 @@
   orcid: 0000-0002-4686-8361
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/5d58cc4f-c243-495c-8b53-99c0cda3f940/tpj16794-fig-0001-m.jpg
 - id: doi:10.1128/spectrum.02939-22
   title: Transcriptome Analysis of the Necrotrophic Pathogen <i>Alternaria brassicae</i>
     Reveals Insights into Its Pathogenesis in <i>Brassica juncea</i>
@@ -33,6 +34,7 @@
   orcid: 0000-0002-4686-8361
   plugin: sources.py
   file: sources.yaml
+  image: https://journals.asm.org/cms/10.1128/spectrum.02939-22/asset/61ed167a-10bb-464e-9a4a-55c421acff75/assets/images/medium/spectrum.02939-22-f005.gif
 - id: doi:10.1038/s41597-022-01903-4
   title: Genome sequencing and assembly of <i>Lathyrus sativus</i> - a nutrient-rich
     hardy legume crop
@@ -52,6 +54,7 @@
   orcid: 0000-0002-4686-8361
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-022-01903-4/MediaObjects/41597_2022_1903_Fig1_HTML.png?as=webp
 - id: doi:10.1101/2022.10.13.512038
   title: A chromosome-scale assembly of<i>Brassica carinata</i>(BBCC) accession HC20
     containing resistance to multiple pathogens and an early generation assessment
@@ -139,6 +142,7 @@
   orcid: 0000-0002-4686-8361
   plugin: sources.py
   file: sources.yaml
+  image: null
 - id: doi:10.1080/19490976.2020.1826761
   title: "Linear and branched <i>\u03B2-</i>Glucans degrading enzymes from versatile\
     \ <i>Bacteroides uniformis</i> JCM 13288<sup>T</sup> and their roles in cooperation\

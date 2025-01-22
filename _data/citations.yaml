@@ -142,7 +142,6 @@
   orcid: 0000-0002-4686-8361
   plugin: sources.py
   file: sources.yaml
-  image: null
 - id: doi:10.1080/19490976.2020.1826761
   title: "Linear and branched <i>\u03B2-</i>Glucans degrading enzymes from versatile\
     \ <i>Bacteroides uniformis</i> JCM 13288<sup>T</sup> and their roles in cooperation\

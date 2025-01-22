@@ -133,7 +133,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-07-05'
   link: https://doi.org/g82pf4
-  image: 
   orcid: 0000-0002-4686-8361
   plugin: orcid.py
   file: orcid.yaml

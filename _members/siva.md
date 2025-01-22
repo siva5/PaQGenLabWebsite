@@ -1,7 +1,7 @@
 ---
 name: Sivasubramanian R
 image: images/Photo_RS.jpeg
-role: principal-investigator
+role: pi
 affiliation: National Agri-Food and Biomanufacturing Institute (NABI)
 aliases:
   - R. Sivasubramanian

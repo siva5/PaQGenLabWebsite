@@ -15,6 +15,7 @@
   publisher: The Plant Journal
   date: '2024-05-09'
   link: https://doi.org/g82pfw
+  image: https://onlinelibrary.wiley.com/cms/asset/5d58cc4f-c243-495c-8b53-99c0cda3f940/tpj16794-fig-0001-m.jpg
   orcid: 0000-0002-4686-8361
   plugin: orcid.py
   file: orcid.yaml
@@ -25,6 +26,7 @@
   publisher: Microbiology Spectrum
   date: '2023-04-13'
   link: https://doi.org/g82pfx
+  image: https://journals.asm.org/cms/10.1128/spectrum.02939-22/asset/61ed167a-10bb-464e-9a4a-55c421acff75/assets/images/medium/spectrum.02939-22-f005.gif
   orcid: 0000-0002-4686-8361
   plugin: orcid.py
   file: orcid.yaml
@@ -43,6 +45,7 @@
   publisher: Scientific Data
   date: '2023-01-17'
   link: https://doi.org/gs4nvs
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-022-01903-4/MediaObjects/41597_2022_1903_Fig1_HTML.png?as=webp
   orcid: 0000-0002-4686-8361
   plugin: orcid.py
   file: orcid.yaml
@@ -130,6 +133,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-07-05'
   link: https://doi.org/g82pf4
+  image: 
   orcid: 0000-0002-4686-8361
   plugin: orcid.py
   file: orcid.yaml

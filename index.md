@@ -1,22 +1,20 @@
 ---
 ---
 
-# Quantitative Genetics and Genomics for food and nutritional security
+# Quantitative genetics and genomics for food and nutritional security
 
 Our research focuses on utilizing genetic and genomic tools to mainstream underutilized crops and crop wild relatives (CWRs) for food and nutritional security.
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Growing global demands for food and forage necessitates crop improvement programmes that can address the triple challenges of higher productivity ...
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research_overview.jpg"
   link="research"
   title="Our Research"
   text=text

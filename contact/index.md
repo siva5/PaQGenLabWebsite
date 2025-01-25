@@ -24,11 +24,12 @@ We welcome inquiries and opportunities to collaborate and exchange ideas! If you
 
 {% capture content %}
 
-{% include figure.html image="images//BRIC-NABI_logo.jpg" link="https://nabi.res.in" %}
+{% include figure.html image="images//NABI_logo.jpeg" link="https://nabi.res.in" %}
+{% include figure.html image="images/BRIC_logo.jpeg" link="https://www.bric.nic.in/" %}
 
 {% endcapture %}
 
-<div style="width: 200%; max-width: 800px; margin: 100 auto;">
+<div style="width: 200%; max-width: 800px; margin: 0 auto;">
   {% include grid.html style="rectangle" content=content %}
 </div>
 

@@ -18,7 +18,7 @@ We welcome inquiries and opportunities to collaborate and exchange ideas! If you
 {%
   include button.html
   type="address"
-  text="1st Floor, National Agri-Food and Biomanufacturing Institute,<br>Sector-81, SAS Nagar<br>Mohali, Punjab, India"
+  text="1st Floor, <br>National Agri-Food and Biomanufacturing Institute,<br>Sector-81, SAS Nagar<br>Mohali, Punjab, India"
   link="https://maps.app.goo.gl/S9Fh1XHhpbkZTRuU9"
 %}
 
@@ -28,7 +28,7 @@ We welcome inquiries and opportunities to collaborate and exchange ideas! If you
 
 {% endcapture %}
 
-<div style="width: 90%; max-width: 800px; margin: 0 auto;">
+<div style="width: 200%; max-width: 800px; margin: 0 auto;">
   {% include grid.html style="rectangle" content=content %}
 </div>
 

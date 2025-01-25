@@ -24,8 +24,9 @@ We welcome inquiries and opportunities to collaborate and exchange ideas! If you
 
 {% capture content %}
 
-{% include figure.html image="images//NABI_logo.jpeg" link="https://nabi.res.in" %}
 {% include figure.html image="images/BRIC_logo.jpeg" link="https://www.bric.nic.in/" %}
+{% include figure.html image="images//NABI_logo.jpeg" link="https://nabi.res.in" %}
+
 
 {% endcapture %}
 

@@ -1,77 +1,35 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome inquiries and opportunities to collaborate and exchange ideas! If you have any questions about our research, facilities, or potential partnerships, please feel free to reach out.We are located at the National Agri-Food and Biomanufacturing Institute, at Mohali, Punjab, India.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="siva.r24@nabi.res.in"
+  link="siva.r24@nabi.res.in"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  text="1st Floor, National Agri-Food and Biomanufacturing Institute,<br>Sector-81, SAS Nagar<br>Mohali, Punjab, India"
+  link="https://maps.app.goo.gl/S9Fh1XHhpbkZTRuU9"
 %}
 
-{% include section.html %}
+{% capture content %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+{% include figure.html image="images//BRIC-NABI_logo.jpg" link="https://nabi.res.in" %}
 
 {% endcapture %}
 
-{% capture col2 %}
+<div style="width: 90%; max-width: 800px; margin: 0 auto;">
+  {% include grid.html style="rectangle" content=content %}
+</div>
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We welcome inquiries and opportunities to collaborate and exchange ideas! If you have any questions about our research, facilities, or potential partnerships, please feel free to reach out.We are located at the National Agri-Food and Biomanufacturing Institute, at Mohali, Punjab, India.
+We welcome inquiries and opportunities to collaborate and exchange ideas! If you have any questions about our research, facilities, or potential partnerships, please feel free to reach out. We are located at the National Agri-Food and Biomanufacturing Institute, at Mohali, Punjab, India.
 
 {%
   include button.html
@@ -28,7 +28,7 @@ We welcome inquiries and opportunities to collaborate and exchange ideas! If you
 
 {% endcapture %}
 
-<div style="width: 200%; max-width: 800px; margin: 0 auto;">
+<div style="width: 200%; max-width: 800px; margin: 100 auto;">
   {% include grid.html style="rectangle" content=content %}
 </div>
 

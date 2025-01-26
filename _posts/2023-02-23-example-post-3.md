@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: New joinee
 image: images/photo.jpg
 author: john-doe
 tags: biology, medicine

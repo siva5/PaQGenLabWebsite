@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.pmpp.2025.102597
+  title: 'Alternaria brassicicola-induced postharvest head blight of cabbage: Insights
+    into its pathogenicity and host range potential on crucifer crops'
+  authors:
+  - Alexander Balamurugan
+  - Shivani Gajbhiye
+  - Sivasubramanian Rajarammohan
+  publisher: Physiological and Molecular Plant Pathology
+  date: '2025-03-01'
+  link: https://doi.org/g84h7r
+  orcid: 0000-0002-4686-8361
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/tpj.16794
   title: A chromosome-scale assembly of _Brassica carinata_(BBCC) accession HC20 containing
     resistance to multiple pathogens and an early generation assessment of introgressions
